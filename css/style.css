@@ -7,8 +7,11 @@ body {
     letter-spacing: 2px;
 }
 
-
-
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 
