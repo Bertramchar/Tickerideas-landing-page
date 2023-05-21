@@ -7,9 +7,12 @@ body {
     letter-spacing: 2px;
 }
 
+.link {
+        margin-top: 20px;
+  }
 .links {
       text-align: center;
-      margin-top: 200px;
+      margin-top: 20px;
       padding: 20px;
       border: 1px solid white;
       border-width: 2px;
