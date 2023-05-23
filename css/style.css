@@ -13,7 +13,7 @@ section::after {
   content: "";
   display: table;
   clear: both;
-  padding-top: 65px;
+  
 }
 
 
@@ -32,6 +32,7 @@ section::after {
       margin-left: auto;
       margin-right: auto;
       border-radius: 40px;
+      padding-top: 65px;
   }
 
 a {
