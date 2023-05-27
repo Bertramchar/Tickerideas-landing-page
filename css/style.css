@@ -8,6 +8,14 @@ body {
     
 }
 
+
+.p {
+      text-align: center;
+      padding: 30px;
+      margin-top: 10%;
+  }
+
+
 /* Clear floats after the columns */
 section::after {
   content: "";
